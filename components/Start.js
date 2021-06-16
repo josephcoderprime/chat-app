@@ -15,7 +15,7 @@ export default class Start extends React.Component {
       <View style={styles.container}>
         <ImageBackground
           style={styles.imgBackground}
-          source={require('../assets/Background_Image.jpe')}
+          source={require('../assets/Background_Image.jpeg')}
         >
           <View style={styles.main}>
             <Text style={styles.title}>Let's Chat</Text>
